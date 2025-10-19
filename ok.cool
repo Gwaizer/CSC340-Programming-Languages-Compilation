@@ -1,0 +1,4 @@
+class Main {
+  x : Int;
+  foo() : Int { if true then 1 else 0 fi }
+};
